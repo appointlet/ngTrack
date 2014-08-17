@@ -1,7 +1,15 @@
 {
-    "strict": true,
-    "undef": true,
-    "unused": true,
-    "eqeqeq": true,
-    "predef": ["angular"]
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "eqeqeq": true,
+  "globals": {
+    "describe": false,
+    "it": false,
+    "expect": false,
+    "module": false
+  },
+  "predef": [
+    "angular"
+  ]
 }
