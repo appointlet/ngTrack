@@ -1,0 +1,27 @@
+{
+  "name": "ngTrack",
+  "version": "0.0.1",
+  "homepage": "https://github.com/appointlet/ngTrack",
+  "authors": [
+    "Jared Morse <jared@appointlet.com>"
+  ],
+  "description": "Helper for making analytics calls to one or more backends.",
+  "main": "src/ng-track.js",
+  "keywords": [
+    "angular",
+    "analytics",
+    "tracking"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "jasmine-jquery": "~2.0.5"
+  }
+}
