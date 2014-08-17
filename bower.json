@@ -22,6 +22,7 @@
   ],
   "devDependencies": {
     "jquery": "~2.1.1",
-    "jasmine-jquery": "~2.0.5"
+    "jasmine-jquery": "~2.0.5",
+    "angular": "~1.2.22"
   }
 }
