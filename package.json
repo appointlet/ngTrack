@@ -1,0 +1,33 @@
+{
+  "name": "ngTrack",
+  "version": "0.0.1",
+  "description": "Helper for making analytics calls to one or more backends.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appointlet/ngTrack.git"
+  },
+  "keywords": [
+    "angular",
+    "analytics",
+    "tracking"
+  ],
+  "author": {
+    "name": "Jared Morse",
+    "email": "jared@appointlet.com",
+    "url": "https://github.com/jarcoal"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appointlet/ngTrack/issues"
+  },
+  "homepage": "https://github.com/appointlet/ngTrack",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.7.0",
+    "grunt-contrib-uglify": "^0.5.1"
+  }
+}
